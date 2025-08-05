@@ -36,7 +36,7 @@ const Projects = () => {
               bg: 'from-pink-400 via-purple-500 to-indigo-600',
               border: 'border-pink-200',
               icon: '📁',
-              demo: 'https://hangman-game-shruti.netlify.app/',
+              demo: 'https://file-handler-shruti.netlify.app/',
               github: 'https://github.com/shruti-ops'
             },
             {
