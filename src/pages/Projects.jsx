@@ -56,7 +56,7 @@ const Projects = () => {
               bg: 'from-green-400 via-emerald-500 to-teal-600',
               border: 'border-green-200',
               icon: '🏦',
-              demo: 'https://hangman-game-shruti.netlify.app/',
+              demo: 'https://credit-risk-analyzer-shruti-main.netlify.app/',
               github: 'https://github.com/shruti-ops'
             },
             {
