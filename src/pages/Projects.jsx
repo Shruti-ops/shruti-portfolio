@@ -36,8 +36,8 @@ const Projects = () => {
               bg: 'from-pink-400 via-purple-500 to-indigo-600',
               border: 'border-pink-200',
               icon: '📁',
-              demo: 'https://your-filehandler-demo-link.com',
-              github: 'https://github.com/shruti-ops/filehandler'
+              demo: 'https://hangman-game-shruti.netlify.app/',
+              github: 'https://github.com/shruti-ops'
             },
             {
               title: '💰 PricePulse',
@@ -46,8 +46,8 @@ const Projects = () => {
               bg: 'from-blue-400 via-indigo-500 to-purple-600',
               border: 'border-blue-200',
               icon: '💰',
-              demo: 'https://your-filehandler-demo-link.com',
-              github: 'https://github.com/shruti-ops/filehandler'
+              demo: 'https://hangman-game-shruti.netlify.app/',
+              github: 'https://github.com/shruti-ops'
             },
             {
               title: '🏦 Credit Risk Analyzer',
@@ -56,8 +56,8 @@ const Projects = () => {
               bg: 'from-green-400 via-emerald-500 to-teal-600',
               border: 'border-green-200',
               icon: '🏦',
-              demo: 'https://your-filehandler-demo-link.com',
-              github: 'https://github.com/shruti-ops/filehandler'
+              demo: 'https://hangman-game-shruti.netlify.app/',
+              github: 'https://github.com/shruti-ops'
             },
             {
               title: '🧠 SPES Mental Health Website',
@@ -66,8 +66,8 @@ const Projects = () => {
               bg: 'from-purple-400 via-pink-500 to-indigo-600',
               border: 'border-purple-200',
               icon: '🧠',
-              demo: 'https://your-filehandler-demo-link.com',
-              github: 'https://github.com/shruti-ops/filehandler'
+              demo: 'https://hangman-game-shruti.netlify.app/',
+              github: 'https://github.com/Shruti-ops/spes-tragicbytes'
             },
             {
               title: '☁️ Sales Forecasting on GCP',
@@ -76,8 +76,8 @@ const Projects = () => {
               bg: 'from-orange-400 via-red-500 to-purple-600',
               border: 'border-orange-200',
               icon: '☁️',
-              demo: 'https://your-filehandler-demo-link.com',
-              github: 'https://github.com/shruti-ops/filehandler'
+              demo: 'https://hangman-game-shruti.netlify.app/',
+              github: 'https://github.com/shruti-ops/'
             }
           ].map((project, index) => (
             <div
