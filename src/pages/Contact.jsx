@@ -45,7 +45,7 @@ const Contact = () => {
           <div className="bg-white rounded-3xl p-10 shadow-2xl card-hover border-4 border-pink-200 sparkle">
             <div className="text-7xl mb-6 bounce-cute">📧</div>
             <h3 className="kawaii-font font-bold text-gray-800 mb-4 text-2xl">✨ Email ✨</h3>
-            <p className="text-pink-600 font-bold text-lg">meshram.shruti73@gmail.com</p>
+            <p className="text-pink-600 font-bold text-sm hover:underline">meshram.shruti73@gmail.com</p>
           </div>
           <div className="bg-white rounded-3xl p-10 shadow-2xl card-hover border-4 border-green-200 sparkle">
             <div className="text-7xl mb-6 wiggle">📱</div>
@@ -55,7 +55,15 @@ const Contact = () => {
           <div className="bg-white rounded-3xl p-10 shadow-2xl card-hover border-4 border-blue-200 sparkle">
             <div className="text-7xl mb-6 floating">💼</div>
             <h3 className="kawaii-font font-bold text-gray-800 mb-4 text-2xl">🌟 LinkedIn 🌟</h3>
-            <p className="text-blue-600 font-bold text-lg">linkedin.com/in/shruti</p>
+            <a
+                href="https://www.linkedin.com/in/shruti-meshram-94bb9621b/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 font-bold text-lg hover:underline"
+                >
+                linkedin.com/in/shruti
+            </a>
+
           </div>
         </div>
 
