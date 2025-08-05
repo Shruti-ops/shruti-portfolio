@@ -1,5 +1,5 @@
 
-# View it here - [Shruti Meshram]([(https://shruti-meshram-portfolio.vercel.app]) 
+# View it here - [Shruti Meshram](https://shruti-meshram-portfolio.vercel.app/) 
 # 💖 Shruti Meshram - Developer Portfolio 💖
 
 Welcome to my personal developer portfolio built using **React**, **Tailwind CSS v3**, **Animate.css**, **GSAP**, and **Particles.js**! This project showcases who I am, what I’ve built, and what I love — all wrapped in an aesthetic, kawaii-coded style 🎀
